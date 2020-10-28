@@ -12,6 +12,9 @@
     "rules": {
         "no-console": "off",
         "no-param-reassign":["error", { "props": false }],
-		"class-methods-use-this": "off"
+        "class-methods-use-this": "off",
+        "func-names": ["error", "never"],
+        "no-unused-vars": "warn",
+        "no-useless-escape": "off"
     }
 }
