@@ -11,13 +11,6 @@ boilerplate z konfiguracją środowiska do pisania zadań z modułu 1 i 2 w Java
 // Zainstaluj zależności poprzez terminal
 npm install
 
-//następnie trzeba zainstalować:
-npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
-npx install-peerdeps --dev eslint-config-airbnb
-
-//Babel
-npm install -D babel-cli babel-preset-env
-
 ```
 
 ## info o strukturze taska:
