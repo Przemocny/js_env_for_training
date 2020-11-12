@@ -4,7 +4,7 @@
 
 ## Witamy na placu boju
 
-- Oto gotowo skonfigurowane środowisko zadań z **"Prework Javascript"** Dla studentów **Akademii Localhost**.
+- Oto gotowo skonfigurowane środowisko do zadań z **"Prework Javascript"** Dla studentów **Akademii Localhost**.
 - Poniżej znajduję się krótka instrukcja jak rozpocząć pracę.
 
 ## Jak ropocząć prace ze środowiskiem
