@@ -1,21 +1,22 @@
-# js_env_for_training:
+# js_env_for_training
 
 ---
 
-Jest to gotowo skonfigurowane środowisko do pisania zadań z **"Prework Javascript"**.
+## Witamy na placu boju
 
-Dla studentów **Akademii Localhost**. Poniżej znajduję się krótka instrukcja jak rozpocząć pracę.
+- Oto gotowo skonfigurowane środowisko do pisania zadań z **"Prework Javascript"** Dla studentów **Akademii Localhost**.
+- Poniżej znajduję się krótka instrukcja jak rozpocząć pracę.
 
-<dl>
-  <dt>Jak rozpocząć pracę</dt>
-  <dd>Zainstaluje środowisko uruchomieniowe <b>node.js</b></dd>
-  <dd>Zainstaluje menagera pakietów <b>npm</b>.</dd>
+### Jak ropocząć prace ze środowiskiem
 
-Kiedy wszystko będzie gotowe, wpisz w terminalu komende **npm install**
-Komenda ta pozwoli zaciągnąc wszystkie potrzebne paczki zawarte w pliku **package.json**
+- 1. Zainstaluj na swoim komputerze środowisko uruchomieniowe **node.js**
+- 2. Zainstaluj menagera pakietów czyli **npm**
 
-  <dt>Modularna struktura zadania</dt>
-  <dd>app.js - Tutaj tworzymy logike działania z zadaniem.</dd>
-  <dd>index.js - Tutaj tworzymy logike naszego zadania.</dd>
-  <dd>example.js - Tutaj tworzymy utility czyli logike pomocniczna do realizacji zadania.</dd>
-</dl>
+Kiedy wszystko będzie gotowe, wpisz w terminalu komende `npm install`
+Komenda ta pozwoli zaciągnąc wszystkie potrzebne paczki zawarte w pliku `package.json`
+
+#### Modularna struktura zadania
+
+- app.js - Tutaj tworzymy logike działania z zadaniem.
+- index.js - Tutaj tworzymy logike naszego zadania.
+- example.js - Tutaj tworzymy logike pomocniczą do realizacji danego zadania tak zwane **"Utlity"**
